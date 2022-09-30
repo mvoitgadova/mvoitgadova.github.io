@@ -1,5 +1,5 @@
 # Site settings
-title:
+title: ECHO™ MRI Coil Monitoring System by GaDova
 email: gbeluk@gadova.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
